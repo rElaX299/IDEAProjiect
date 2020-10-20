@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e2847f9-e686-454c-a0bd-bcbe58096220" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMzflqaOoyGTMm8Ti5pedqekX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e2847f9-e686-454c-a0bd-bcbe58096220" name="Default Changelist" comment="" />
+      <created>1601732355200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601732355200</updated>
+      <workItem from="1601732356422" duration="24000" />
+      <workItem from="1601732386934" duration="11000" />
+      <workItem from="1601733105743" duration="31000" />
+      <workItem from="1601733142547" duration="3000" />
+      <workItem from="1601782396400" duration="1303000" />
+      <workItem from="1601818874266" duration="47000" />
+      <workItem from="1602074686672" duration="31000" />
+      <workItem from="1602075554145" duration="32000" />
+      <workItem from="1602075607067" duration="21000" />
+      <workItem from="1602075646117" duration="10000" />
+      <workItem from="1602075665488" duration="37000" />
+      <workItem from="1602081259285" duration="23000" />
+      <workItem from="1602146156261" duration="10000" />
+      <workItem from="1603210025127" duration="13000" />
+      <workItem from="1603210045242" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1601782501081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601782501081" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601808127916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601808127916" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603210083348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603210083348" />
+  </component>
+</project>
